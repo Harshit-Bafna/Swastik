@@ -2,6 +2,9 @@
 
 Swastik Healthcare is a comprehensive healthcare website that provides a one-stop solution for all your health-related needs. The website features a range of healthcare services including doctor appointments, lab tests, medicines, healthcare products, gym, blogs, surgeries and much more. The website is designed to provide an easy and convenient platform for users to take control of their health and wellness.
 
+## Developers
+Swastik was developed by Harshit Bafna and Priyanshi Jain.
+
 ## Technologies Used
 The following technologies have been used in developing Swastik Healthcare:
 
