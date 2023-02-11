@@ -32,6 +32,3 @@ The following technologies have been used in developing Swastik Healthcare:
 3. Import the SQL database file to your local server
 4. Update the database configuration in the config.php file
 5. Launch the website by opening the index.php file in a browser
-
-## Contribution
-Contributions to the Swastik Healthcare project are welcome. Please feel free to create a pull request or raise an issue for any bugs or improvements you may identify.
